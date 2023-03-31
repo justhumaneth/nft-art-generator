@@ -1,0 +1,50 @@
+{
+  "name": "Tro11Town #0",
+  "description": "tro11 gonna tro11",
+  "image": "ipfs://baseURI/0.png",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "aplllaaazze",
+      "value": "cartun",
+      "count": 3,
+      "frequency": "15.0%"
+    },
+    {
+      "trait_type": "awiiiaapon",
+      "value": "spikiitoo",
+      "count": 3,
+      "frequency": "15.0%"
+    },
+    {
+      "trait_type": "boobi",
+      "value": "thanos",
+      "count": 5,
+      "frequency": "25.0%"
+    },
+    {
+      "trait_type": "ciii",
+      "value": "g",
+      "count": 2,
+      "frequency": "10.0%"
+    },
+    {
+      "trait_type": "de_tape",
+      "value": "pinkyy",
+      "count": 6,
+      "frequency": "30.0%"
+    },
+    {
+      "trait_type": "sluuur",
+      "value": "violation",
+      "count": 2,
+      "frequency": "10.0%"
+    }
+  ],
+  "rarity": {
+    "harmonic": {
+      "score": "2.951%",
+      "rank": 12
+    }
+  }
+}

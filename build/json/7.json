@@ -1,0 +1,50 @@
+{
+  "name": "Tro11Town #7",
+  "description": "tro11 gonna tro11",
+  "image": "ipfs://baseURI/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "aplllaaazze",
+      "value": "forest",
+      "count": 5,
+      "frequency": "25.0%"
+    },
+    {
+      "trait_type": "awiiiaapon",
+      "value": "spikii",
+      "count": 3,
+      "frequency": "15.0%"
+    },
+    {
+      "trait_type": "boobi",
+      "value": "thanos",
+      "count": 5,
+      "frequency": "25.0%"
+    },
+    {
+      "trait_type": "ciii",
+      "value": "c",
+      "count": 6,
+      "frequency": "30.0%"
+    },
+    {
+      "trait_type": "de_tape",
+      "value": "pinkyy",
+      "count": 6,
+      "frequency": "30.0%"
+    },
+    {
+      "trait_type": "sluuur",
+      "value": "bankruptcy",
+      "count": 1,
+      "frequency": "5.0%"
+    }
+  ],
+  "rarity": {
+    "harmonic": {
+      "score": "2.903%",
+      "rank": 10
+    }
+  }
+}

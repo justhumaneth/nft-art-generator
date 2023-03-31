@@ -1,0 +1,50 @@
+{
+  "name": "Tro11Town #16",
+  "description": "tro11 gonna tro11",
+  "image": "ipfs://baseURI/16.png",
+  "edition": 16,
+  "attributes": [
+    {
+      "trait_type": "aplllaaazze",
+      "value": "hehcars",
+      "count": 1,
+      "frequency": "5.0%"
+    },
+    {
+      "trait_type": "awiiiaapon",
+      "value": "spikii",
+      "count": 3,
+      "frequency": "15.0%"
+    },
+    {
+      "trait_type": "boobi",
+      "value": "avatar",
+      "count": 2,
+      "frequency": "10.0%"
+    },
+    {
+      "trait_type": "ciii",
+      "value": "a",
+      "count": 3,
+      "frequency": "15.0%"
+    },
+    {
+      "trait_type": "de_tape",
+      "value": "brown",
+      "count": 11,
+      "frequency": "55.0%"
+    },
+    {
+      "trait_type": "sluuur",
+      "value": "speed",
+      "count": 2,
+      "frequency": "10.0%"
+    }
+  ],
+  "rarity": {
+    "harmonic": {
+      "score": "2.176%",
+      "rank": 4
+    }
+  }
+}
